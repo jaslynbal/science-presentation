@@ -1,0 +1,28 @@
+ .all{
+     background-color: black;
+ }
+h1 {
+    background-color: blue;
+   display: flex;
+   justify-content: center;
+}
+h2{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    background-color: yellowgreen;
+}
+.ways{
+    background-color: limegreen;
+}
+.effects{
+    background-color: mediumseagreen;
+}
+.facts{
+   background-color: goldenrod; 
+}
+.things{
+    background-color: skyblue;
+}
